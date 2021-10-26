@@ -1,0 +1,17 @@
+figure1{
+    margin-left: 100px;
+    margin-bottom: 90px;
+    margin-right: 90px;
+     padding-left: 10px;
+    object-fit: cover;
+}
+
+figure1 a{
+    padding-top: 100px;
+}
+
+
+
+.navbar b {
+    color: #F2E4E4;
+}
